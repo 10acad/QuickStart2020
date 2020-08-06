@@ -1,5 +1,9 @@
 #
-solution/
+practise
+*.csv
+*.json
+*.pkl
+Icon*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
